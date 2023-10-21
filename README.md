@@ -21,7 +21,7 @@ public class ECommerceSearchTest {
 
     @Test
     public void testProductSearch() {
-        driver.get("https://example.com"); // Replace with your website URL
+        driver.get("https://www.google.com"); 
 
         WebElement searchInput = driver.findElement(By.id("search-input"));
 
